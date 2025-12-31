@@ -41,10 +41,6 @@
 [![Algorithm Ranking](https://mazassumnida.wtf/api/v2/generate_badge?boj=minha222)](https://solved.ac/profile/minha222)
 <br>
 
-
-[![Programmers Stats](https://github-readme-programmers.vercel.app/api?user=minha222&theme=dark)](https://programmers.co.kr/learn/challenges)
-<br>
-
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=minha222&show_icons=true)
 

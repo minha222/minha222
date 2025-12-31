@@ -30,3 +30,15 @@
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=minha222&layout=compact)
 <br>
 
+### 🌏 Global Experience
+- **Huawei Seeds for the Future (China, 2025)**
+  - Huawei 주관 글로벌 ICT 해외 연수 프로그램
+  - 한국 대표단의 일원으로 중국 동관·심천 현지 연수
+  - 5G, AI, Cloud Computing 등 최신 ICT 기술 학습
+  - 9개국 참가자들과의 팀 프로젝트 및 글로벌 협업 경험
+  <br>
+
+### 🏆 Awards
+- 교내 프로그래밍 경진대회 - 장려상 (2025)
+- 교내 캡스톤디자인(졸업프로젝트) - 장려상 (2025)
+<br>

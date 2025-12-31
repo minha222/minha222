@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&text=minha222&fontSize=70&fontAlign=50&fontAlignY=40&desc=&descSize=20&descAlign=50&descAlignY=60)
 
 ### 🙇 안녕하세요, 공부하는 개발자 minha222입니다!
+백엔드에 관심이 있어, 더 심층적으로 공부해 보려고 합니다 😊
 <br>
 
 ### 🦾 Skills

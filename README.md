@@ -21,7 +21,7 @@
 
 ### 🧩 Projects
 
-- **AI 기반 스크린샷 분류 및 일정 추천 앱 Caplog 개발(2025)**
+- **AI 기반 스크린샷 분류 및 일정 추천 앱 Caplog 개발 (2025)**
   - 프론트엔드 담당 / AI 프롬프트 엔지니어링
 
 - **뉴스 기사 인기도 예측 AI 모델 개발 (2025)**
@@ -39,6 +39,10 @@
 
 ### 🚩 Algorithm Ranking
 [![Algorithm Ranking](https://mazassumnida.wtf/api/v2/generate_badge?boj=minha222)](https://solved.ac/profile/minha222)
+<br>
+
+
+[![Programmers Stats](https://github-readme-programmers.vercel.app/api?user=minha222&theme=dark)](https://programmers.co.kr/learn/challenges)
 <br>
 
 ### 📊 GitHub Stats

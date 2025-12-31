@@ -44,3 +44,5 @@
 - 교내 프로그래밍 경진대회 - 장려상 (2025)
 - 교내 캡스톤디자인(졸업프로젝트) - 장려상 (2025)
 <br>
+
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fminha222&label=&icon=github&color=%23198754&message=&style=flat&tz=UTC)
